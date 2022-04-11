@@ -1,0 +1,33 @@
+Created by Cigdem on 4/10/2022
+
+This is a concept file with following syntax for each concept.
+
+# Nereden ve Nereye rotalarının parametrik olarak seçilmesi
+* Nereden input alanına "istanbul" yazılması
+* Listedeki ilk rotanın seçilmesi
+* Nereye input alanına "ankara" yazılması
+* Listedeki ilk rotanın seçilmesi
+
+# Gidiş ve Dönüş tarihinin parametrik olarak seçilmesi
+* Gidiş tarihi "23 Nis" olarak yazılır
+* Tek yön checkboxına tıklanır
+* Dönüş tarihi "Perşembe, 9 Haziran 2022" olarak yazılır
+
+
+# İstenilen yolcu sayısının ve bilet sınıfının seçilebilmesi
+* Yetişkin yolcu sayısının "3" olarak arttırılması
+* Bebek yolcu sayısının "1" olarak arttırılması
+* Altmış beş yolcu sayısının "3" kadar arttırılması ve "5" kadar azaltılması
+* Çocuk yolcu sayısının "2" olarak arttırılması
+* Öğrenci yolcu sayısının "4" kadar arttırılması ve "2" kadar azaltılması
+* Bilet sınıfının "ekonomi" olarak seçilmesi
+
+
+# Arama butonuna basılır ve bir sonraki sayfaya geçtiğinin kontrolü yapılır
+* Arama butonuna tıklanması
+* Sonraki sayfaya geçtiğinin kontrolünün yapılması
+
+# Yolcu sayısı arttırılır
+* Yetişkin yolcu sayısının "10" olarak arttırılması
+* Bebek yolcu sayısının "1" olarak arttırılması
+
